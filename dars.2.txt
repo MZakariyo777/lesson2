@@ -1,0 +1,22 @@
+display screen statics >> w3schools.com/browsers >>browsers display; >> 1366*768;
+chap tomondagi bo'lim >> komponentalar bo'limi;
+colorhunt.co >>  ranglar olami
+artboard- hamma obyektlar jamlanadigan doska.
+shurtcut:
+1. ctrl + z >> orqaga qaytaradi, bitta amal;
+2. alt + mouse hold and move;
+3. ctrl+0,1,2 >> zoom;
+mac da  command + z;
+
+ text in adobe xd: 
+1. line text(bitta qatordan chiquvchi so'zlar - cheksiz ketaveradi) >> 1,2,3 ta so'zlar uchun
+ (default -  standart  holatda line text formatda yozadi) T icon;
+2. text box(wrap text) - mouse clicked  and drawed rectangle
+
+select item with group:
+layer>>select item(ctrl + mouse left button  orqali keraksizlarni chiqarib tashlash)>>move group;
+
+a. wireframe UI kit(shablonlar)
+b. file >> get UI kits >> shablonlarni yuklash
+c. open chrome >> find xd wireframe  yuklash uchun
+d. unzip >> open web UI kit;
